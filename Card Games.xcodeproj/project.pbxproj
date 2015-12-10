@@ -17,6 +17,7 @@
 		4278B2E01C17040A000CB1BD /* PlayingCard.m in Sources */ = {isa = PBXBuildFile; fileRef = 4278B2DF1C17040A000CB1BD /* PlayingCard.m */; };
 		4278B2E31C170417000CB1BD /* PlayingDeck.m in Sources */ = {isa = PBXBuildFile; fileRef = 4278B2E21C170417000CB1BD /* PlayingDeck.m */; };
 		4278B2E61C170545000CB1BD /* CardGameViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4278B2E51C170545000CB1BD /* CardGameViewController.m */; };
+		4278B2E91C180BB2000CB1BD /* CardMatchingGame.m in Sources */ = {isa = PBXBuildFile; fileRef = 4278B2E81C180BB2000CB1BD /* CardMatchingGame.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,8 @@
 		4278B2E21C170417000CB1BD /* PlayingDeck.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlayingDeck.m; sourceTree = "<group>"; };
 		4278B2E41C170545000CB1BD /* CardGameViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CardGameViewController.h; sourceTree = "<group>"; };
 		4278B2E51C170545000CB1BD /* CardGameViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CardGameViewController.m; sourceTree = "<group>"; };
+		4278B2E71C180BB2000CB1BD /* CardMatchingGame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CardMatchingGame.h; sourceTree = "<group>"; };
+		4278B2E81C180BB2000CB1BD /* CardMatchingGame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CardMatchingGame.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +106,8 @@
 				4278B2DB1C1703D5000CB1BD /* Deck.m */,
 				4278B2E11C170417000CB1BD /* PlayingDeck.h */,
 				4278B2E21C170417000CB1BD /* PlayingDeck.m */,
+				4278B2E71C180BB2000CB1BD /* CardMatchingGame.h */,
+				4278B2E81C180BB2000CB1BD /* CardMatchingGame.m */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -181,6 +186,7 @@
 				4278B2DD1C1703D5000CB1BD /* Deck.m in Sources */,
 				4278B2B91C16E0CA000CB1BD /* AppDelegate.m in Sources */,
 				4278B2B61C16E0CA000CB1BD /* main.m in Sources */,
+				4278B2E91C180BB2000CB1BD /* CardMatchingGame.m in Sources */,
 				4278B2DC1C1703D5000CB1BD /* Card.m in Sources */,
 				4278B2E61C170545000CB1BD /* CardGameViewController.m in Sources */,
 				4278B2E31C170417000CB1BD /* PlayingDeck.m in Sources */,
